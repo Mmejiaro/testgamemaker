@@ -68,6 +68,7 @@
     {"id":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"order":1,},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"order":13,},
     {"id":{"name":"obj_zombCollision","path":"objects/obj_zombCollision/obj_zombCollision.yy",},"order":25,},
+    {"id":{"name":"testnew","path":"objects/testnew/testnew.yy",},"order":32,},
     {"id":{"name":"obj_zombie","path":"objects/obj_zombie/obj_zombie.yy",},"order":3,},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"order":5,},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"order":1,},
