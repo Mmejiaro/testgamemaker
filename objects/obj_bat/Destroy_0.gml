@@ -1,0 +1,1 @@
+instance_create_layer(self.x,self.y,"instances",obj_poof);
